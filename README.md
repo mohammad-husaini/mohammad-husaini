@@ -1,8 +1,8 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohammad Husaini</h1>
-<h3 align="center">Passionate Web Developer | Exploring the World of React</h3>
+<h3 align="center">Passionate Web Developer | Exploring the World of JS</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Node JS
 
 - 📫 How to reach me **mo.r.husini@gmail.com**
 
